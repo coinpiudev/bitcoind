@@ -6,6 +6,12 @@ This repository is fork from [XJonathanLEI/bitoind-docker](https://github.com/xJ
 
 Built images are available at [Docker Hub](https://hub.docker.com/r/xjonathanlei/bitcoind).
 
+## Build
+
+```bash
+docker build --build-arg BITCOIN_CORE_VERSION=xxx -t coinpiu/bitcoind:xxx .
+```
+
 ## Data Storage
 
 `bitcoind` stores data in `/data`
