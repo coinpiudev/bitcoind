@@ -4,7 +4,7 @@
 
 This repository is fork from [XJonathanLEI/bitoind-docker](https://github.com/xJonathanLEI/bitcoind-docker).
 
-Built images are available at [Docker Hub](https://hub.docker.com/r/xjonathanlei/bitcoind).
+Built images are available at [Docker Hub](https://hub.docker.com/r/coinpiu/bitcoind).
 
 ## Build
 
